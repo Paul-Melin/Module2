@@ -1,1 +1,63 @@
+Part 1 - 
+Challenge 1
 
+Median=42
+Mean=50
+Values: 20/34/34/12/56/110/49/a/b
+(20+34+34+12+56+110+49+a+b)/9=50
+a+b = 135
+a=42
+b=93
+
+Let's calculate the mean to check = 450/9 = 50
+Let's check the median = The fifth value is 42
+
+Challenge 2
+
+Here it's risky to try to calculate a mean of a mean : we know the average speed but we don't know the distanceor the duration of the travel.
+
+Challenge 3
+
+See the graph on the picture
+Around 300 on total frequency of 400 lights bulbs have a lifetime less then 480 hours so we can say 75% have a lifetime less then 480 hours.
+
+Challenge 4
+
+Median= 60 patients so the median is the 30st values so here it is in the range 40-59.
+Median = 40+(((60/2)-29)/17)*19=41,12
+
+Mean : Let's calculate the midpoints:
+9,5/29,5/49,5/69,5/89,5/109,5/129,5/149,5/169,5
+Multiply and sum frequency by midpoints and divide it by population:
+Mean=2790/60=46,5
+
+Standard deviation: Let's calculate the square of the difference of midpoints with mean and then multiply it with frequency:
+21904/3757/153/2116/7396/11907/6889/10609/15129
+standard deviation = square.root(79860/60-1)= 36,79
+
+Part 2
+Challenge 1
+
+A=
+1-1/1-2/1-3/1-4/1-5/1-6/
+2-1/2-2/2-3/2-4/2-5/2-6/
+3-1/3-2/3-3/3-4/3-5/3-6/
+4-1/4-2/4-3/4-4/4-5/4-6/
+5-1/5-2/5-3/5-4/5-5/5-6/
+6-1/6-2/6-3/6-4/6-5/6-6/
+B= 2/3/4/5/6/7/3/4/5/6/7/8/4/5/6/7/8/9/5/6/7/8/9/10/6/7/8/9/10/11/7/8/9/10/11/12
+C=12
+
+Case A = 6-6
+Case B= 1-1/1-3/1-5/2-2/2-4/2-6/3-1/3-3/3-5/4-2/4-4/4-6/5-1/5-3/5-5/6-2/6-4/6-6
+Case C= 6
+
+Part 2
+
+A= 12 figures out of 52
+B= many many options
+C= 26 hearts or spades out of 52
+
+Case A: J-J/J-Q/Q-J/Q-Q/Q-K/K-Q/K-K
+Case B: 7-Q/Q-7/J-7/7-J/K-7/7-K/7-10/10-7
+Case C: 1-1/1-2/1-3/1-4/1-5/1-6/2-1/2-2/2-3/2-4/2-5/3-1/3-2/3-3/3-4/4-1/4-2/4-3/5-1/5-2/6-1/
