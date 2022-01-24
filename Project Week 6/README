@@ -1,0 +1,66 @@
+USER STORIES
+
+KPI 1 - Average time for transaction
+As a manager at Alpha Inc
+I want the Average time for transaction 
+So that I know if there is any delay on the transaction and if I should be worried or not.
+
+KPI 2 - Status of payment
+As a manager at Alpha Inc
+I want the status of payment
+So that I can know at which step my transaction is and the amount per status (NEW, PENDING, DELIVERED, COMPLETED, CANCELED).
+
+KPI 3 - Total charges per period
+As a manager at Alpha Inc
+I want the total charges per period for completed transactions
+So that I know the total fees amount paid per year for all banks.
+
+KPI 4 - Payment status forecast
+As a manager at Alpha Inc
+I want the probability to have completed transaction on all new transactions
+So that I know the percentage of success by transaction; here (27/39)*100 = 69,23%.
+
+KPI 5 - Amount per Creditor
+As a manager at Alpha Inc
+I want the amount per creditor for all  transactions
+So that I can identify our main creditors 
+
+KPI 6 – Currency of the transaction
+As a manager at Alpha Inc
+I want to know what is the rate currency for my transaction 
+So that I know if I have more transactions in USD or in EUROS. 78,8% are in US dollars and 21,11% in EUROS.
+
+KPI 7 - Issues in correspondence chain
+As a manager at Alpha Inc
+I want the Issues in correspondence chain
+So that we have the number of issues per receiving bank.
+
+KPI 8 - Number of transactions per country
+As a manager at Alpha Inc 
+I want to know in which country we have the higher number of transactions
+So that we can identify where are our main creditors and optimize our financial process in term of international regulation (interest rate,…) 
+
+KPI 9 – Total amount per country
+As a manager at Alpha Inc 
+I want to know in which country we have the higher amount of transactions
+So that we can identify where are our main creditors and optimize our financial process in term of international regulation (interest rate,…) 
+
+KPI 10 – Delayed Transaction  
+As a manager at Alpha Inc
+I want to know what is the ratio of delayed transaction (transaction that took more then 24h)
+So that I can see how many delayed transactions we have and understandand why.
+
+KPI 11 – Forecast of the number of transaction movements 
+As a manager at Alpha Inc
+I want to know a prediction of how many transaction movements we will have in the next months according to the previous one 
+So that I can anticipate and advise the treasury that transfers will need to be arranged
+
+KPI 12 – Status per Bank 
+As a manager at Alpha Inc
+I want to know the status of our transaction movements
+So that I can identify with which bank we have the most issues and delay in the process and try to understand why
+
+KPI 13 – Forecast of the number of transaction movements 
+As a manager at Alpha Inc
+I want to know a prediction of how many transaction movements we will have in the next months according to the previous one 
+So that I can anticipate and advise the treasury that transfers will need to be arranged
